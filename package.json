@@ -2,7 +2,7 @@
   "name": "p2-cms-integration-server",
   "version": "1.0.0",
   "description": "CMS Integration - Server",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start":"node app.js",
     "start:dev" : "node bin/www",
