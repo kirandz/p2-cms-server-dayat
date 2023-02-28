@@ -1,0 +1,162 @@
+[
+    {
+        "title":"Aku suka makan",
+        "content":"Makanan yang baik akan selalu menjagamu hahahaha",
+        "imgUrl":"https://cdn1-production-images-kly.akamaized.net/KxuztQKl3tnUN0Fw5iAwKsnX_u0=/0x148:1920x1230/640x360/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3093328/original/069244600_1585909700-fried-2509089_1920.jpg",
+        "categoryId":1,
+        "authorId":2,
+        "status": "Active"
+    },
+    {
+        "title":"aku suka yae",
+        "content":"memang cantik sekali dia",
+        "imgUrl":"https://cdn.gamebrott.com/wp-content/uploads/2022/06/Yae-Miko-Genshin-Impact-Fanart-5.jpg",
+        "categoryId":2,
+        "authorId":1,
+        "status": "Active"
+    },
+    {
+        "title":"Raiden shogun hebat",
+        "content":"udah saatnya kalian gacha karakter ini",
+        "imgUrl":"https://id.jugomobile.com/wp-content/uploads/2022/02/Cara-membuka-kunci-pertarungan-bos-mingguan-dengan-Raiden-Shogun-di.jpg",
+        "categoryId":2,
+        "authorId":1,
+        "status": "Active"
+    },
+    {
+        "title":"One Piece",
+        "content":"Manga tentang bajak laut",
+        "imgUrl":"https://cdn1-production-images-kly.akamaized.net/W3WSXSlCY1jf4pgzLRXcSTtlrDc=/1200x1200/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/4027992/original/033101200_1653012009-ezgif.com-gif-maker__12_.jpg",
+        "categoryId":2,
+        "authorId":1,
+        "status": "Active"
+    },
+    {
+        "title":"Naruto",
+        "content":"Manga yang suka jalan cerita ninja",
+        "imgUrl":"https://upload.wikimedia.org/wikipedia/id/3/36/Naruto_Uzumaki.png",
+        "categoryId":2,
+        "authorId":1,
+        "status": "Active"
+    },
+    {
+        "title":"Dragon Ball",
+        "content":"Manga tentang petarung handal",
+        "imgUrl":"https://www.greenscene.co.id/wp-content/uploads/2021/10/Dragon-Ball-2-696x497.jpg",
+        "categoryId":2,
+        "authorId":1,
+        "status": "Active"
+    },
+    {
+        "title":"Bleach",
+        "content":"Manga tentang pertarungan pedang",
+        "imgUrl":"https://play-lh.googleusercontent.com/uhwLDyRPKS8__hZPX-8OmVX0BFV_CBh9GKwZNQREKPuQk9xVPznce_UqIJINz0kfULo",
+        "categoryId":2,
+        "authorId":1,
+        "status": "Active"
+    },
+    {
+        "title":"Gintama",
+        "content":"Manga tentang samurai yang lucu",
+        "imgUrl":"https://cdn.myanimelist.net/images/about_me/ranking_items/10704259-f94f72e0-5e2f-404f-9c9a-a9ada7abc369.jpg?t=1662865732",
+        "categoryId":2,
+        "authorId":1,
+        "status": "Active" 
+    },
+    {
+        "title":"Code Geass",
+        "content":"Manga tentang mecha dan kekuatan geass",
+        "imgUrl":"https://flxt.tmsimg.com/assets/p186544_b_v9_ad.jpg",
+        "categoryId":2,
+        "authorId":1,
+        "status": "Active" 
+    },
+    {
+        "title":"Fate Stay Night",
+        "content":"Saber kesukaan saya",
+        "imgUrl":"https://m.media-amazon.com/images/M/MV5BOTg5ZjI5ZTAtOWE2OS00MjY4LWI4ZDQtMzEzMDY4MTgzYWJlXkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_.jpg",
+        "categoryId":2,
+        "authorId":1,
+        "status": "Active"  
+    },
+    {
+        "title": "jalan amerika",
+        "content": "jalan-jalan ke sini asik",
+        "imgUrl": "https://images.unsplash.com/photo-1670993746371-3a6f009f16ed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+        "categoryId": 3,
+        "authorId": 1,
+        "status": "Active"
+    },
+    {
+        "title": "Saber fate stay night",
+        "content": "Saber waifu tercantik",
+        "imgUrl": "https://upload.wikimedia.org/wikipedia/en/6/62/Saberstaynight.jpg",
+        "categoryId": 4,
+        "authorId": 1,
+        "status": "Active"
+    },
+    {
+        "title": "Eula Lawrence",
+        "content": "Sekali damage, musuh langsung hilang",
+        "imgUrl": "https://genshin.global/wp-content/uploads/2022/10/eula-birthday-art-genshinimpact.jpg",
+        "categoryId": 4,
+        "authorId": 1,
+        "status": "Active"
+    },
+    {
+        "title": "Ninja",
+        "content": "Ninja adalah pekerjaan yang kusuka ",
+        "imgUrl": "https://img.freepik.com/free-vector/cute-ninja-working-laptop-cartoon-vector-icon-illustration-people-technology-icon-isolated-flat_138676-4801.jpg?w=2000",
+        "categoryId": 4,
+        "authorId": 2,
+        "status": "Active"
+    },
+    {
+        "title": "Ryougi Shiki",
+        "content": "Kimononya sangat cocok",
+        "imgUrl": "https://c4.wallpaperflare.com/wallpaper/844/928/953/fate-series-fate-grand-order-shiki-ryougi-wallpaper-preview.jpg",
+        "categoryId": 2,
+        "authorId": 2,
+        "status": "Active"
+    },
+    {
+        "title": "Ayaka",
+        "content": "Ayaka waifu cryo dengan dps tersakit",
+        "imgUrl": "https://assets.promediateknologi.com/crop/0x0:0x0/x/photo/2022/04/17/2851559736.jpg",
+        "categoryId": 4,
+        "authorId": 1,
+        "status": "Active"
+    },
+    {
+        "title": "Bakso",
+        "content": "Makan bakso paling enak di saat hujan",
+        "imgUrl": "https://t-2.tstatic.net/tribunnewswiki/foto/bank/images/sajian-bakso-enak-yang-cocok-dimakan-saat-hujan.jpg",
+        "categoryId": 1,
+        "authorId": 1,
+        "status": "Active"
+    },
+    {
+        "title": "Jalan ke Paris",
+        "content": "Eiffel Tower adalah salah satu tempat yang harus dikunjungi",
+        "imgUrl": "https://www.travelandleisure.com/thmb/SPUPzO88ZXq6P4Sm4mC5Xuinoik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/eiffel-tower-paris-france-EIFFEL0217-6ccc3553e98946f18c893018d5b42bde.jpg",
+        "categoryId": 3,
+        "authorId": 1,
+        "status": "Active"
+    },
+    {
+        "title": "Jalan ke Raja Ampat",
+        "content": "Indonesia juga punya wisata diving bagus",
+        "imgUrl": "http://www.indonesia.travel/content/dam/indtravelrevamp/en/destinations/revisi-2020/destinations-thumbnail/Raja-Ampat-Thumbnail.png",
+        "categoryId": 3,
+        "authorId": 2,
+        "status": "Active"
+    },
+    {
+        "title": "Sate kambing",
+        "content": "Sate kambing ini sangat lezat dan menggugah selera",
+        "imgUrl": "https://www.teakpalace.com/image/catalog/artikel/gambar-makanan-paling-enak-sate-kambing.jpg",
+        "categoryId": 1,
+        "authorId": 2,
+        "status": "Active"
+    }
+]

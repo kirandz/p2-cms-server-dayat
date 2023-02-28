@@ -1,0 +1,18 @@
+[
+    {
+    "userName":"Realitha1",
+    "email":"google1@gmail.com",
+    "password":"123456",
+    "phoneNumber":"082784921832",
+    "address":"Jalan K.H. Mas Mansyur 45 Kota Bandung",
+    "role":"Customer"
+    },
+    {
+    "userName":"Realitha",
+    "email":"google2@gmail.com",
+    "password":"123456",
+    "phoneNumber":"082784921832",
+    "address":"Jalan K.H. Mas Mansyur 45 Kota Bandung",
+    "role":"Customer"
+    }
+]

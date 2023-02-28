@@ -1,0 +1,18 @@
+[
+    {
+        "userName":"Realitha",
+        "email":"Realitha@yahoo.com",
+        "password":"123456",
+        "role":"Admin",
+        "phoneNumber":"082784921832",
+        "address":"Jalan K.H. Mas Mansyur 45 Kota Bandung"
+    },
+    {
+        "userName":"Dayat",
+        "email":"dayat@yahoo.com",
+        "password":"123456",
+        "role":"Admin",
+        "phoneNumber":"083784921234",
+        "address":"Jalan K.H. Mas Mansyur 45 Kota Bogor"
+    }
+]
